@@ -1,2 +1,2 @@
-# p1
-digit recognition
+# Face Recognition
+Face recognition
